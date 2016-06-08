@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:03.566665
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:05
 #+TITLE: 華嚴經疏科
 #+PROPERTY: CBETA_ID U223n1418
 #+PROPERTY: ID KR6e0017
 #+PROPERTY: SOURCE Southern Hongwu Edition of the Canon Vol. 223, No. 1418
 #+PROPERTY: VOL 223
 #+PROPERTY: BASEEDITION U
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0017_U_005-0007a> 
 #+PROPERTY: JUAN 5
-
- 華嚴經疏科卷第五清涼山沙門澄觀述晉水沙門淨源重刊石五¶
+華嚴經疏科卷第五清涼山沙門澄觀述晉水沙門淨源重刊石五¶
 
   
   * 毘盧遮那品第六(四)¶
@@ -207,7 +206,7 @@
   * 二約随事立名(二此)¶
   * 三如来讚述(二)¶
   
-  * 初已具勝德當成極果¶
+  * 初巳具勝德當成極果¶
   * 二行齊佛因當如佛證¶
   * 三最勝功德海佛(六)¶
   
@@ -858,7 +857,7 @@
   * 初長行¶
   * 二偈頌(三)¶
   
-  * 初揔標行海已圓¶
+  * 初揔標行海巳圓¶
   * 二別顯化類不同¶
   * 三揔結悲智周徧¶
   * 四因果圓徧德(三)¶

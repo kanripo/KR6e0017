@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:04.178500
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:05
 #+TITLE: 華嚴經疏科
 #+PROPERTY: CBETA_ID U223n1418
 #+PROPERTY: ID KR6e0017
 #+PROPERTY: SOURCE Southern Hongwu Edition of the Canon Vol. 223, No. 1418
 #+PROPERTY: VOL 223
 #+PROPERTY: BASEEDITION U
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0017_U_020-0196a> 
 #+PROPERTY: JUAN 20
-
- 華嚴經疏科卷第二十清涼山沙門澄觀述晉水沙門淨源重刊鉅十¶
+華嚴經疏科卷第二十清涼山沙門澄觀述晉水沙門淨源重刊鉅十¶
 
   
   * ○第三慈氏菩薩一人明攝德成因相(二)¶
@@ -330,7 +329,7 @@
   
   * 初警覺令起¶
   * 二略示體相¶
-  * 三得[二/日]而起¶
+  * 三得旨而起¶
   * 四問荅所見(二)¶
   
   * 初問¶
@@ -537,7 +536,7 @@
   
   * 初見毛孔內含三世間¶
   * 二見普賢身徧諸剎中¶
-  * 三自見己身等普賢化¶
+  * 三自見已身等普賢化¶
   * 三校量顯勝(三)¶
   
   * 初校量善根¶

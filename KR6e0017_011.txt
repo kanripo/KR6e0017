@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:03.789083
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:05
 #+TITLE: 華嚴經疏科
 #+PROPERTY: CBETA_ID U223n1418
 #+PROPERTY: ID KR6e0017
 #+PROPERTY: SOURCE Southern Hongwu Edition of the Canon Vol. 223, No. 1418
 #+PROPERTY: VOL 223
 #+PROPERTY: BASEEDITION U
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0017_U_011-0077a> 
 #+PROPERTY: JUAN 11
-
- 華嚴經疏科卷第十一清涼山沙門澄觀述晉水沙門淨源重刊鉅一¶
+華嚴經疏科卷第十一清涼山沙門澄觀述晉水沙門淨源重刊鉅一¶
 
   
   * 七說分(三)¶
@@ -78,9 +77,9 @@
   * 初別釋(二)¶
   
   * 初科判(則有)¶
-  * 二釋經(已如)¶
+  * 二釋經(巳如)¶
   * 二隨難料揀(然小)¶
-  * 三六相圓融(已知)¶
+  * 三六相圓融(巳知)¶
   * 二為何義(二)
 <pb:KR6e0017_U_011-0078a>¶
   
@@ -1372,7 +1371,7 @@
   
   * 初根本建立(根本)¶
   * 二方便發修(方便)¶
-  * 三修已成就(修已)¶
+  * 三修巳成就(修巳)¶
   * 四德業自在(德業)¶
   * 三結行入位¶
   * 二猒行分(二)¶
@@ -1720,7 +1719,7 @@
   * 初通香味(遠公)¶
   * 二通餘三(又色)¶
   * 二橫約頓修(若於)¶
-  * 二辨治(已明)¶
+  * 二辨治(巳明)¶
   * 二辨利益(修行)¶
   * 三明依止(二)¶
   
